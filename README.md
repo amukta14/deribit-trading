@@ -1,4 +1,4 @@
-# GoQuant - High-Performance Trading System for Deribit
+High-Performance Trading System for Deribit
 
 A C++-based high-performance order execution and management system for trading on Deribit Test.
 
